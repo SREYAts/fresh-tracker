@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# FRESH TRACKER 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: DATA DYNAMO
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: SREYA.T.S - HOLY GRACE ACADEMY ENGINEERING
+- Member 2: VARSHA N.V - HOLY GRACE ACADENY OF ENGINEERING
+- Member 3: HARIPRIYA K.H - HOLY GRACE ACADEMY OF ENGINEERING
 
 ### Hosted Project Link
 [mention your project hosted project link here]
