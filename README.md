@@ -11,21 +11,21 @@
 - Member 3: HARIPRIYA K.H - HOLY GRACE ACADEMY OF ENGINEERING
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/SREYAts/fresh-tracker.git
 
 ### Project Description
-[2-3 lines about what your project does]
+a website for developing food waste reduction using expiry dates
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+wastage of food due to expiry dates and health issues
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+tracking the expiry dates of given food items and giving notifications to users and having option to donate the food to nearer orphanage or other associations before 1 week of expiry date
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML,Javascript
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,14 +47,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1v3BYIeT86NzIA6Wf4EuGBvc4MBDH-Hbr?usp=share_link
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
